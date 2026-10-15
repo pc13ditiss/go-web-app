@@ -1,0 +1,16 @@
+
+# Downloaded binaries
+minikube-linux-arm64
+kubectl
+helm
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Build artifacts
+go-web-app
+*.log
