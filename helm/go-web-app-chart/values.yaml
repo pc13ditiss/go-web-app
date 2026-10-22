@@ -4,10 +4,10 @@ image:
   # This sets the pull policy for images.
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "39237746283"
+  tag: "39741070546"
 =======
   repository: go-web-app
-  tag: "v1"
+  tag: "39741070546"
   pullPolicy: Never
 >>>>>>> 336220c (update: Helm chart configuration)
 
